@@ -35,7 +35,7 @@ The road (at least for the first part) will look like this
 1. Excel
 2. Statistics
 3. Data visualization and storytelling
-4. SQL ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+4. SQL
 5. Power Bi
 6. Portfolio using all parts above
 7. Some slides tool and communication skills (I'm not shy, but I need to improve communication)
@@ -63,3 +63,7 @@ Also, I know that one of the bests ways to hold the information for longer time 
 This is it! This is how I'm going to leave my call center life. Have fun, ask me anything, and if you're doing this same thing, enjoy the trip.
 
 [Some Costa Rica'n vibes for your soul](https://www.youtube.com/watch?v=rr5hQ4KCbmM&list=RDrr5hQ4KCbmM&start_radio=1)
+
+### Some cool badges
+![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)
