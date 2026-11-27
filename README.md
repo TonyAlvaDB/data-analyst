@@ -20,13 +20,13 @@ Being happy is not an option. Landing that job is not an option.
 
 So, as I said earlier, this **will** be the road I will go through to achieve the goal: that first tech job. I'm not looking for anything fancy, just a job to put my knowledge to use.
 
-What is the goal, you say? Oh, wait
+What is the goal, you say? Oh, wait...
 
 ## The goal
 
 So, first of all, the goal is to land a tech job, and as I you read in the relief part, I really like data. So, the goal is to achieve a job as Data Analyst. It does not matter the field. Then, I will do my best to grow as either Data Engineer or Data Scientist.
 
-Now, let's get back to the road
+Now, let's get back to the road c:
 
 ## The road (2)
 
