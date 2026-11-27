@@ -12,4 +12,7 @@ Following with the idea on last paragraph, AI + AI-bros is the second reason I u
 
 Said this, it's easy to quit. Like, I could learn carpentry, or how to work with iron... But something happened a few months ago. I got engaged! And now there is no machine, no AI-bro or new-tool-to-learn-bro that can stop me. I will achieve this, even if the world is against me. I have to say that this lady makes me the most happy dude ever. And I will give everything within my power to make that lady a happy lady. And have a happy family, doing the thing that I love the most: working with beautiful data, statistics and all of that. 
 
+<img width="640" height="640" alt="image" src="https://github.com/user-attachments/assets/692a3433-9499-47f6-872e-9ae5d6f0b35b" />
+Being happy is not an option, it's part of the road
+
 This is the path I did to be a data analyst
