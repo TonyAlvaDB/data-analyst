@@ -60,13 +60,13 @@ There is a disclaimer I need to do here: **every word that i'll write and say wi
 
 Also, I know that one of the bests ways to hold the information for longer time is to teach. So, I'm planning to open a youtube channel and, each weak, upload a video with the things I learned that week. If you are reading this you must know (maybe you already know it), that English is not my first language. I'm from Costa Rica, so *yo hablo español*. So, I'll  do my best to translate, or maybe I'll use some AI youtube shortcut or something to have 2 languages in every video. I'm not an expert, and my goal is not to be good at editing, so videos will be recorded in the best way that I can, with the tools that I already have.
 
-This is it! This is how I'm going to leave my call center life. Have fun, ask me anything, and if you're doing this same thing, enjoy the trip.
-
-[Some Costa Rica'n vibes for your soul](https://www.youtube.com/watch?v=rr5hQ4KCbmM&list=RDrr5hQ4KCbmM&start_radio=1)
-
 ### Some cool badges
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 
 ### A shoebil
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/450ee43f-35d1-49c3-b5bf-7f292967bf12" />
+
+This is it! This is how I'm going to leave my call center life. Have fun, ask me anything, and if you're doing this same thing, enjoy the trip.
+
+[Some Costa Rica'n vibes for your soul](https://www.youtube.com/watch?v=rr5hQ4KCbmM&list=RDrr5hQ4KCbmM&start_radio=1)
