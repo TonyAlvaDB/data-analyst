@@ -35,7 +35,7 @@ The road (at least for the first part) will look like this
 1. Excel
 2. Statistics
 3. Data visualization and storytelling
-4. SQL
+4. SQL ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 5. Power Bi
 6. Portfolio using all parts above
 7. Some slides tool and communication skills (I'm not shy, but I need to improve communication)
