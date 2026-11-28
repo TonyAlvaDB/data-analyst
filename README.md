@@ -64,6 +64,8 @@ Also, I know that one of the bests ways to hold the information for longer time 
 ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Kaggle](https://img.shields.io/badge/Kaggle-%23035a7d.svg?style=for-the-badge&logo=kaggle&logoColor=white)
 
+BTW, I love birds
+
 ### A shoebil
 <img width="800" height="533" alt="image" src="https://github.com/user-attachments/assets/450ee43f-35d1-49c3-b5bf-7f292967bf12" />
 
