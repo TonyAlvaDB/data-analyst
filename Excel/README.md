@@ -21,6 +21,7 @@ I'm also sure that I'll not be in this 6 weeks, I think it's a lot. But I put it
 
 The idea is being able to clean data, answer business questions with pivot tables and XLOOKUP, write a few statistical phrases that someone would believe and tell a story with a graph. I'll upload a clean dataset with a pivot table and plots. Also, a readme explaining all.
 
+### A White Toucan
 <img width="535" height="535" alt="image" src="https://github.com/user-attachments/assets/58be6004-0f83-4c54-9d56-47ec51bd486e" />
 
-Here's a White Toucan
+
