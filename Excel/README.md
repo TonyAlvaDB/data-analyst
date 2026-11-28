@@ -15,6 +15,9 @@ I'm going to study Excel during 7 weeks. Here's the specific point's I'll see:
 
 Somewhere in between all this I'll see functions. In my opinion functions are not hard, I just need to know what they do.
 
+I'm also sure that I'll not be in this 6 weeks, I think it's a lot. But I put it like this so I have some sort of order. My mind needs it
+
 ## The final goal
 
 The idea is being able to clean data, answer business questions with pivot tables and XLOOKUP, write a few statistical phrases that someone would believe and tell a story with a graph. I'll upload a clean dataset with a pivot table and plots. Also, a readme explaining all.
+
