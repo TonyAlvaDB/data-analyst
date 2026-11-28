@@ -18,3 +18,6 @@ So, here's what we are doing within the first 12 weeks of this path:
 ## The final goal
 
 Anwer business questions with 2 or 3 tables, with no AI or tutorial help. 
+
+### Blue Heron
+<img width="779" height="788" alt="image" src="https://github.com/user-attachments/assets/9e5fd9e7-0654-47cc-b230-a1650b31ec57" />
