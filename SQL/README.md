@@ -21,3 +21,7 @@ Anwer business questions with 2 or 3 tables, with no AI or tutorial help.
 
 ### Blue Heron
 <img width="779" height="788" alt="image" src="https://github.com/user-attachments/assets/9e5fd9e7-0654-47cc-b230-a1650b31ec57" />
+
+### Disclaimer
+
+I know that the tone here changed if you just saw the Excel readme. However, SQL is something I already know very well. Here I'll just see it once more. It's still important and I'll take it seriously.
