@@ -13,6 +13,8 @@ I'm going to study Excel during 7 weeks. Here's the specific point's I'll see:
 5. Outliers, distribution and corelation: this is to reinforce the last point. For outliers i'll use [this video](https://www.youtube.com/watch?v=kRZ3OfQAAJA), for distribution I'll use [this one](https://www.youtube.com/watch?v=0tLF83IxwdY) and for corelation [this one](https://www.youtube.com/watch?v=8a_etQN-qso). I'll be building a historiagram and a box plot to help me achieve a final outcome. I'll also read [this article](https://medium.com/@alienoghli/the-essential-guide-to-a-b-testing-a84b853c16e0) related with A/B testing. 
 6. Visualization: This week I'll read [Storytelling with data](https://github.com/ytx-readings/data-books/blob/main/books/data-visualization/storytelling-with-data-cole-nussbaumer-knaflic.pdf). I'll locate some graphics online and fix them using the *three rules*. Then, I'll transform an analisys into graphs.
 
+Somewhere in between all this I'll see functions. In my opinion functions are not hard, I just need to know what they do.
+
 ## The final goal
 
 The idea is being able to clean data, answer business questions with pivot tables and XLOOKUP, write a few statistical phrases that someone would believe and tell a story with a graph. I'll upload a clean dataset with a pivot table and plots. Also, a readme explaining all.
